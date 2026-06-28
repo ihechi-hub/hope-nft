@@ -1,0 +1,15 @@
+# Foundry specific
+cache/
+out/
+broadcast/
+**/run-latest.json
+**/run-*.json
+**/*.solc.json
+
+# Dependencies
+lib/
+
+# Environment
+.env
+
+
